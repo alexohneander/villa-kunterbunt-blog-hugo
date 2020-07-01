@@ -27,7 +27,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 
 # menu
 [[menu.main]]
-URL = "ueber-uns"
+URL = "about"
 name = "Über Uns"
 weight = 1
 
@@ -42,7 +42,7 @@ weight = 2
 #weight = 3
 
 [[menu.main]]
-URL = "kontakt"
+URL = "contact"
 name = "Kontakt"
 weight = 4
 
@@ -63,7 +63,7 @@ description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+#copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 
 
 # contact
