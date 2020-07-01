@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://stupefied-swirles-c94931.netlify.app"
 languageCode = "de-DE"
 summaryLength = "10"
 theme = "kross-hugo"
